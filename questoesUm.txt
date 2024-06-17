@@ -1,0 +1,53 @@
+1 complete a sentença 
+RESPOSTA: C
+
+2 - Sobre o NPM, afirme
+RESPOSTA : C
+
+3 - Fluxo do Mercado Livre 
+RESPOSTA: D
+
+4 - Sobre aplicações em Node.js
+RESPOSTA: D
+
+5 - Sobre o back-end 
+RESPOSTA: C
+
+6 - Sobre o Node.js
+RESPOSTA: D
+
+7 - Sobre o Node, afirme
+RESPOSTA: B
+
+8 - Sobre back-end, responda:
+RESPOSTA: C
+
+9 - Sobre o Node.js
+RESPOSTA: C
+
+10 - Sobre o Node, afirme:
+RESPOSTA: C
+
+11 - O que é Node.js 
+RESPOSTA: D
+
+12 - Sobre o Node.js
+RESPOSTA: D
+
+13 - Vantagens do Node.js 
+RESPOSTA: A
+
+14 - Qual o papel de um gerenciador de dependências
+RESPOSTA: D
+
+15 - Características do back-end 
+RESPOSTA: D
+
+16 - Sobre dependências 
+RESPOSTA: A
+
+17 - Vantagens do Node.js 
+RESPOSTA: C
+
+18 - Sobre o NPM
+RESPOSTA: A
